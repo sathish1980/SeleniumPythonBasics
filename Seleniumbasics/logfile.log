@@ -1,0 +1,8 @@
+2021-10-16 12:16:32,203 :WARNING : __main__ : This is warning log
+2021-10-16 12:16:32,203 :ERROR : __main__ : This is error log
+2021-10-16 12:16:32,203 :CRITICAL : __main__ : critical log
+2021-10-16 12:17:03,785 :DEBUG : __main__ : This is debugger log
+2021-10-16 12:17:03,785 :INFO : __main__ : This is info log
+2021-10-16 12:17:03,785 :WARNING : __main__ : This is warning log
+2021-10-16 12:17:03,785 :ERROR : __main__ : This is error log
+2021-10-16 12:17:03,785 :CRITICAL : __main__ : critical log

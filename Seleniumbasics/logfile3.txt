@@ -1,0 +1,65 @@
+2022-03-02 08:35:53,821 :WARNING : __main__ : This is warning log
+2022-03-02 08:35:53,832 :ERROR : __main__ : This is error log
+2022-03-02 08:35:53,832 :CRITICAL : __main__ : critical log
+2022-03-02 08:35:53,832 :INFO : __main__ : This is info log
+2022-03-02 08:35:53,832 :WARNING : __main__ : This is warning log
+2022-03-02 08:35:53,832 :ERROR : __main__ : This is error log
+2022-03-02 08:35:53,832 :CRITICAL : __main__ : critical log
+2022-03-02 08:38:29,316 :WARNING : __main__ : This is warning log
+2022-03-02 08:38:29,316 :ERROR : __main__ : This is error log
+2022-03-02 08:38:29,316 :CRITICAL : __main__ : critical log
+2022-03-02 08:38:29,316 :INFO : __main__ : This is info log
+2022-03-02 08:38:29,316 :WARNING : __main__ : This is warning log
+2022-03-02 08:38:29,322 :ERROR : __main__ : This is error log
+2022-03-02 08:38:29,322 :CRITICAL : __main__ : critical log
+2022-03-02 08:43:10,928 :WARNING : Seleniumbasics.logfile : This is warning log
+2022-03-02 08:43:10,928 :ERROR : Seleniumbasics.logfile : This is error log
+2022-03-02 08:43:10,928 :CRITICAL : Seleniumbasics.logfile : critical log
+2022-03-02 08:43:10,928 :INFO : Seleniumbasics.logfile : This is info log
+2022-03-02 08:43:10,928 :WARNING : Seleniumbasics.logfile : This is warning log
+2022-03-02 08:43:10,928 :ERROR : Seleniumbasics.logfile : This is error log
+2022-03-02 08:43:10,928 :CRITICAL : Seleniumbasics.logfile : critical log
+2022-03-02 08:43:16,307 :WARNING : Seleniumbasics.logfile : URL has been entered
+2022-03-02 08:43:20,402 :WARNING : Seleniumbasics.logfile : Element clicked
+2022-03-02 08:43:20,417 :WARNING : Seleniumbasics.logfile : bottom popup closed
+2022-03-02 08:43:20,558 :ERROR : Seleniumbasics.logfile : FromCity is clicked
+2022-03-02 08:43:22,569 :CRITICAL : Seleniumbasics.logfile : the size of the list is20
+2022-03-02 08:43:22,607 :CRITICAL : Seleniumbasics.logfile : the value is :BOM
+2022-03-02 08:43:22,644 :CRITICAL : Seleniumbasics.logfile : the value is :DEL
+2022-03-02 08:43:22,678 :CRITICAL : Seleniumbasics.logfile : the value is :BKK
+2022-03-02 08:43:22,713 :CRITICAL : Seleniumbasics.logfile : the value is :BLR
+2022-03-02 08:43:22,748 :CRITICAL : Seleniumbasics.logfile : the value is :PNQ
+2022-03-02 08:43:22,784 :CRITICAL : Seleniumbasics.logfile : the value is :HYD
+2022-03-02 08:43:22,817 :CRITICAL : Seleniumbasics.logfile : the value is :CCU
+2022-03-02 08:43:22,853 :CRITICAL : Seleniumbasics.logfile : the value is :MAA
+2022-03-02 08:43:22,951 :CRITICAL : Seleniumbasics.logfile : the given value is selected
+2022-03-02 08:45:27,841 :CRITICAL : Seleniumbasics.logfile : critical log
+2022-03-02 08:45:27,841 :INFO : Seleniumbasics.logfile : This is info log
+2022-03-02 08:45:27,841 :WARNING : Seleniumbasics.logfile : This is warning log
+2022-03-02 08:45:27,841 :ERROR : Seleniumbasics.logfile : This is error log
+2022-03-02 08:45:27,841 :CRITICAL : Seleniumbasics.logfile : critical log
+2022-03-02 08:45:33,133 :WARNING : Seleniumbasics.logfile : URL has been entered
+2022-03-02 08:45:37,228 :WARNING : Seleniumbasics.logfile : Element clicked
+2022-03-02 08:45:37,244 :WARNING : Seleniumbasics.logfile : bottom popup closed
+2022-03-02 08:45:37,379 :ERROR : Seleniumbasics.logfile : FromCity is clicked
+2022-03-02 08:45:39,386 :CRITICAL : Seleniumbasics.logfile : the size of the list is20
+2022-03-02 08:45:39,417 :CRITICAL : Seleniumbasics.logfile : the value is :BOM
+2022-03-02 08:45:39,453 :CRITICAL : Seleniumbasics.logfile : the value is :DEL
+2022-03-02 08:45:39,495 :CRITICAL : Seleniumbasics.logfile : the value is :BKK
+2022-03-02 08:45:39,526 :CRITICAL : Seleniumbasics.logfile : the value is :BLR
+2022-03-02 08:45:39,569 :CRITICAL : Seleniumbasics.logfile : the value is :PNQ
+2022-03-02 08:45:39,604 :CRITICAL : Seleniumbasics.logfile : the value is :HYD
+2022-03-02 08:45:39,639 :CRITICAL : Seleniumbasics.logfile : the value is :CCU
+2022-03-02 08:45:39,671 :CRITICAL : Seleniumbasics.logfile : the value is :MAA
+2022-03-02 08:45:39,758 :CRITICAL : Seleniumbasics.logfile : the given value is selected
+2022-03-02 08:49:59,021 :CRITICAL : Seleniumbasics.logfile : critical log
+2022-03-02 08:50:09,281 :CRITICAL : Seleniumbasics.logfile : the size of the list is20
+2022-03-02 08:50:09,311 :CRITICAL : Seleniumbasics.logfile : the value is :BOM
+2022-03-02 08:50:09,359 :CRITICAL : Seleniumbasics.logfile : the value is :DEL
+2022-03-02 08:50:09,387 :CRITICAL : Seleniumbasics.logfile : the value is :BKK
+2022-03-02 08:50:09,433 :CRITICAL : Seleniumbasics.logfile : the value is :BLR
+2022-03-02 08:50:09,468 :CRITICAL : Seleniumbasics.logfile : the value is :PNQ
+2022-03-02 08:50:09,500 :CRITICAL : Seleniumbasics.logfile : the value is :HYD
+2022-03-02 08:50:09,534 :CRITICAL : Seleniumbasics.logfile : the value is :CCU
+2022-03-02 08:50:09,568 :CRITICAL : Seleniumbasics.logfile : the value is :MAA
+2022-03-02 08:50:09,662 :CRITICAL : Seleniumbasics.logfile : the given value is selected

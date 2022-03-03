@@ -1,0 +1,20 @@
+2021-12-19 12:13:42,246 :WARNING : __main__ : This is warning log
+2021-12-19 12:13:42,247 :ERROR : __main__ : This is error log
+2021-12-19 12:13:42,247 :CRITICAL : __main__ : critical log
+2021-12-19 12:15:47,715 :WARNING : __main__ : This is warning log
+2021-12-19 12:15:47,715 :ERROR : __main__ : This is error log
+2021-12-19 12:15:47,715 :CRITICAL : __main__ : critical log
+2022-02-22 08:41:50,463 :WARNING : Seleniumbasics.logfile : This is warning log
+2022-02-22 08:41:50,463 :ERROR : Seleniumbasics.logfile : This is error log
+2022-02-22 08:41:50,463 :CRITICAL : Seleniumbasics.logfile : critical log
+2022-02-22 08:41:50,463 :INFO : Seleniumbasics.logfile : This is info log
+2022-02-22 08:41:50,463 :WARNING : Seleniumbasics.logfile : This is warning log
+2022-02-22 08:41:50,463 :ERROR : Seleniumbasics.logfile : This is error log
+2022-02-22 08:41:50,463 :CRITICAL : Seleniumbasics.logfile : critical log
+2022-02-22 08:43:33,591 :WARNING : Seleniumbasics.logfile : This is warning log
+2022-02-22 08:43:33,591 :ERROR : Seleniumbasics.logfile : This is error log
+2022-02-22 08:43:33,591 :CRITICAL : Seleniumbasics.logfile : critical log
+2022-02-22 08:43:33,591 :INFO : Seleniumbasics.logfile : This is info log
+2022-02-22 08:43:33,591 :WARNING : Seleniumbasics.logfile : This is warning log
+2022-02-22 08:43:33,591 :ERROR : Seleniumbasics.logfile : This is error log
+2022-02-22 08:43:33,591 :CRITICAL : Seleniumbasics.logfile : critical log
