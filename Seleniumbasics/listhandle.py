@@ -26,7 +26,7 @@ class lsthandle(logdata):
         self.driver.find_element_by_id("fromCity").click()
         self.logger.error("FromCity is clicked")
         time.sleep(2)
-        totalvalue =self.driver.find_elements_by_xpath("//div[@id='react-autowhatever-1']//child::li")
+        totalvalue =self.driver.find_elements_by_xpath("/div[@class='react-autosuggest__section-container']//ul//li")
         sizeoflist = len(totalvalue) #20 will return
         print(sizeoflist)
         self.logger.critical("the size of the list is" +str(sizeoflist))

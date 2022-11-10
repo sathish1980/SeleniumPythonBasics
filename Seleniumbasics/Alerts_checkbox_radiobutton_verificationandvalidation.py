@@ -1,6 +1,7 @@
 import time
 
 from selenium import webdriver
+from selenium.webdriver.common.by import By
 from selenium.webdriver.support.select import Select
 
 
@@ -37,17 +38,17 @@ class dpwon:
         time.sleep(2)
         self.driver.find_element_by_xpath("//button[text()='OK']").click()
     def verification(self):
-        self.driver.get("http://www.leafground.com/pages/radio.html")
+        self.driver.get("http://www.leafground.com/pages/Edit.html")
         #Get Title
         print(self.driver.title)
         # Get currenturl
         print(self.driver.current_url)
         # Get attribute
-        classattributename = self.driver.find_element_by_id("yes").get_attribute("type")
+        classattributename = self.driver.find_element(by=By.ID,value="email").get_attribute("style")
         print(classattributename)
         # Get text
-        classattribute = self.driver.find_element_by_xpath("//div[@id='first']//label[1]").text
-        print(classattribute)
+        textoftheelement = self.driver.find_element_by_xpath("(//label[@for='email'])[1]").text
+        print(textoftheelement)
 
         # currentwindowname
         classattributename = self.driver.current_window_handle
@@ -57,11 +58,14 @@ class dpwon:
     def validation(self):
         self.driver.get("http://www.leafground.com/pages/checkbox.html")
         time.sleep(2)
-        print(self.driver.find_element_by_xpath("(//input[@type='checkbox'])[2]").is_displayed())
-        valu= self.driver.find_element_by_xpath("(//input[@type='checkbox'])[6]").is_selected()
-        if valu == True :
-            self.driver.find_element_by_xpath("(//input[@type='checkbox'])[6]").click()
-        print(self.driver.find_element_by_xpath("(//input[@type='checkbox'])[5]").is_enabled())
+        print(self.driver.find_element_by_xpath("(//input[@type='checkbox'])[1]").is_displayed())
+        print(self.driver.find_element_by_xpath("(//input[@type='checkbox'])[1]").is_enabled())
+        valu= self.driver.find_element_by_xpath("(//input[@type='checkbox'])[1]").is_selected()
+        print(valu)
+        if valu == False :
+            self.driver.find_element_by_xpath("(//input[@type='checkbox'])[1]").click()
+        print(self.driver.find_element_by_xpath("(//input[@type='checkbox'])[1]").is_selected())
+
 
 d= dpwon()
-d.verification()
+d.validation()

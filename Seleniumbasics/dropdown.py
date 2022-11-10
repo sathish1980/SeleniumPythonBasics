@@ -15,7 +15,7 @@ class dpwon:
         self.driver.get("http://www.leafground.com/pages/Dropdown.html")
        # self.driver.find_element_by_xpath("//a[text()='Create New Account']").click()
         self.driver.implicitly_wait(50)
-        daydropwn = Select(self.driver.find_element_by_id("dropdown1"))
+        daydropwn = Select(self.driver.find_element_by_id("dropdown2"))
         daydropwn.select_by_index(4)
 
         element = WebDriverWait(self.driver, 60).until(EC.presence_of_element_located((By.NAME, "dropdown2")))

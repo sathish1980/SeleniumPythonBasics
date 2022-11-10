@@ -20,7 +20,7 @@ def dataload():
 def paramonfix(request):
     return request.param
 
-@pytest.fixture(params =[("chrome","sathish","password"),("firefox","username","password"),("IE","ie-username","ie-password")])
+@pytest.fixture(params =[("chrome","sathish","password"),("firefox","username1","password1"),("IE","ie-username1","ie-password"),("Edge","Edge-username1","Edge-password")])
 def paramonfixwithmultidata(request):
     return request.param
 
